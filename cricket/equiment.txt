@@ -1,0 +1,8 @@
+cricket equipment
+bat
+ball
+stump
+pads
+gloves
+helmets
+wickets
